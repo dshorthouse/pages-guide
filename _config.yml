@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: DEMO                        # Title in top navigation bar (navbar) and <head>
+title: Pages Guide                        # Title in top navigation bar (navbar) and <head>
 author: name                       # Used for copyright statement in footer
 url: ""                   
 baseurl: "/pages-guide"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
@@ -18,9 +18,9 @@ theme: minima
 remote_theme:  peterdesmet/petridish@3.0
 github_edit: true                       # Show an "edit this page" link in the footer, can also be name of branch (default: main)
 colors:
-  links: "#00934a"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#00934a"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#006038"                     # Background color for footer: use color that contrasts well with white
+  links: "#19A7CE"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#146C94"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#19A7CE"                     # Background color for footer: use color that contrasts well with white
 font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 logo: /assets/theme/images/logo.png # Logo in navbar, will be displayed with 30px height
