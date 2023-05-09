@@ -2,7 +2,7 @@
 title: DEMO                        # Title in top navigation bar (navbar) and <head>
 author: name                       # Used for copyright statement in footer
 url: ""                   
-#baseurl: "/pages-guide"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+baseurl: "/pages-guide"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
 
 # SOCIAL PROFILES
