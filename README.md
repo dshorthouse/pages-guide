@@ -20,3 +20,5 @@ $ gem install bundler
 $ bundle install
 $ bundle exec jekyll serve
 ```
+
+Visible here at https://dshorthouse.github.io/pages-guide/
