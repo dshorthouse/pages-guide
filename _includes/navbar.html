@@ -63,6 +63,7 @@
                 {% assign replace = '/' | append: lang[0] %}
                 <a class="dropdown-item" href="{{ page.url | replace_first: find, replace | relative_url }}">{{ lang[1] }}</a>
               {% endfor %}
+            </div>
           </li>
         </ul>
       </div>
